@@ -1,0 +1,17 @@
+TRÀ SỮA TẸT PHƯỢNG - BẢN CÀI ĐẶT RA MÀN HÌNH CHÍNH (v23)
+
+Trình duyệt chỉ cho "cài đặt" khi game được mở qua đường link https://
+(mở file trực tiếp từ máy thì chỉ chơi được, không cài được).
+
+BƯỚC 1 - Đưa cả thư mục này lên mạng (chọn 1 cách, đều miễn phí):
+ - Netlify Drop: vào app.netlify.com/drop, kéo thả cả thư mục này vào.
+ - Cloudflare Pages / GitHub Pages / Vercel: tải toàn bộ file lên, mở link https được cấp.
+ Phải giữ nguyên các file: index.html, manifest.webmanifest, sw.js, thư mục icons.
+
+BƯỚC 2 - Mở link trên điện thoại:
+ - iPhone (Safari): bấm nút Chia sẻ -> "Thêm vào MH chính".
+ - Android (Chrome): bấm nút "Cài đặt" trên thanh hiện ở màn hình đăng nhập,
+   hoặc menu ⋮ -> "Cài đặt ứng dụng" / "Thêm vào màn hình chính".
+ Mở từ biểu tượng ngoài màn hình chính sẽ chạy toàn màn hình, và chơi được cả khi mất mạng.
+
+Khi cập nhật bản mới: tải đè các file lên cùng chỗ, mở game 2 lần là tự nhận bản mới.
